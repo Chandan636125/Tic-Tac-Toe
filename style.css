@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: blueviolet;
+    text-align: center; 
+}
+
+h1{
+    font-size: 10vmin;
+    color:aliceblue;
+}
+
+.hide{
+    font-size: 10vmin;
+    color:aliceblue;
+    display: none;
+}
+
+.container{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+#new-game{
+    height: 5vmin;
+    width: 10vmin;
+    border: none;
+    background-color: darkgray;
+    color: black;
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    color: rgb(10, 1, 12);
+    font-size: 10vmin;
+    border-radius: 1rem;
+    border: none;
+    background-color: aqua;
+    text-align: center;
+}
