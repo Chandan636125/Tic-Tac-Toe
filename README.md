@@ -24,7 +24,7 @@ A simple and fun **Tic Tac Toe (X/O)** game built using **HTML, CSS, and JavaScr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/Chandan636125/Tic-Tac-Toe.git
 2. **Open the game**
 
    Open index.html in your browser.
